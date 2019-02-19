@@ -1,4 +1,7 @@
 # A9脚本
+---
+由于本人已退坑A9，现已停止更新，请访问[我朋友仓库](https://github.com/Dr-Omega9834/Asphalt9/blob/master/README_CH.md)
+---
 ## 简介:
 * 狂野飙车9自动刷金币脚本.
 * 使用Auto.js作为开发平台
